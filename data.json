@@ -1,0 +1,96 @@
+{
+    "headerData": {
+      "btnText": "Contact us"
+    },
+  
+    "navData": [
+      { "name": "About", "href": "/" },
+      { "name": "How to Apply", "href": "/" },
+      { "name": "RoadMap", "href": "/" }
+    ],
+
+    "heroData":{
+        "title":"Helloworld Codders!",
+        "bgImg":"../../public/assets/animation/computerAnim.json",
+        "btnText":"Get Started"
+    },
+    "aboutData":{
+      "title":"Frontend Tutorial",
+      "subtitle":"We are going to make Tutorial on Frontend.",
+      "text":"You will get every saturday and sunday video Tutorial,please go and subscribe the clubofcoders channel on Youtube.",
+      "Frontendimg":"/assets/images/About/about.svg"
+    },
+    "frontendData":{
+      "title":"Who is a full-stack developer? ",
+      "frontendList":[
+        "Can build front end","Can manage database and server","Has basic knowledge of OS","Know at least how to host a database driven application on the web"
+      ],
+      "aboutimg":"/assets/images/About/about.svg"  
+    },
+    "roadmapData":{
+      "title":"FrontEnd RoadMap",
+      "subtitle":"Topic We will cover in frontend Series",
+      "steps":[
+        {
+          "name":"HTML",
+          "text":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content",
+          "img":"/assets/images/Roadmap/html.png"
+        },
+        {
+          "name":"CSS",
+          "text":"CSS is the language we use to style a Web page.",
+          "img":"/assets/images/Roadmap/css1.png"
+          
+        },
+        {
+          "name":"JAVASCRIPT",
+          "text":"Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers.",
+          "img":"/assets/images/Roadmap/javascript1.png"
+        },
+        {
+          "name":"REACT JS",
+          "text":"React is a declarative, efficient, and flexible JavaScript library for building user interfaces.",
+          "img":"/assets/images/Roadmap/reactjs.png"
+        },
+        {
+          "name":"NEXT JS",
+          "text":"It lets you build server-side rendering and static web applications using React",
+          "img":"/assets/images/Roadmap/nextjs.png"
+        }
+      
+      ]
+    },
+    "faqData":{
+      "pretitile":"faq",
+      "title":"Some doutes are cleared",
+      "img":"/assets/images/faq/faq.svg",
+      "questions":[
+        {
+          "question":"what is prerequisite to Follow this Series?",
+          "answer":"Nothing,Only require is your time and Dedication to become a fronted devloper"
+
+        },
+        {
+          "question":"Which frameWork we use in the frontend series?",
+          "answer":"For frontend We have many framework like(Angular,Reactjs).But in this series We use React js ,Because this is more demanding framework in the present time"
+
+        },
+        {
+          "question":"How this frontend Series is better than others ?",
+          "answer":"In this series we mainly focus on project.By real world projects you learn easily and getting intersting."
+
+        },
+        {
+          "question":"Which Plateform you use For write Code ?",
+          "answer":"In this Series I am using visual studio code For codding."
+
+        },
+        {
+          "question":"where you upload the video of this fronted series ?",
+          "answer":"The frontend series will be uploaded on this site and also on Yotube ,So you can watch this course on Youtube and this site also."
+
+        }
+      ]
+    }
+
+}
