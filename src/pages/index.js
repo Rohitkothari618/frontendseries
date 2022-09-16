@@ -1,6 +1,5 @@
 import About from "../components/About";
-import Header from "../components/Header";
-import Copyright from "../components/Copyright";
+
 import Hero from "../components/Hero";
 import Footer from "../components/Footer";
 import Roadmap from "../components/Roadmap";
